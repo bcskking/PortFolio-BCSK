@@ -1,5 +1,4 @@
 // script.js
-// Interactive typewriter effect for the header description with sparkle
 const headerText = document.querySelector('header p');
 const originalText = "Front-End Developer | HTML | CSS | JavaScript";
 let index = 0;
